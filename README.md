@@ -6,7 +6,7 @@ Models Explored:
 2. XG Boost
 
 
-About dataset:
+# About dataset:
 
 RowNumber: corresponds to the record (row) number and has no effect on the output.
 
@@ -38,7 +38,7 @@ Exited : whether or not the customer left the bank.
 
 Acknowledgements As we know, it is much more expensive to sign in a new client than keeping an existing one. It is advantageous for banks to know what leads a client towards the decision to leave the company. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
-All steps:
+# All steps:
 1. Data preprocessing : to check any missing values, correlated variable, and dummy encoding
 2. EDA:  to develop hypothesis
 3. Scaling data : it helps to improve accuracy 
@@ -47,7 +47,7 @@ All steps:
 7. Comparing each model  
 
 
-Results :
+# Results :
 Predicting bank's customer churn using XG Boost have higher accuracy than Logistic Regression. 
 
 Accuracy score :
